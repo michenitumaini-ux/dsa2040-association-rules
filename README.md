@@ -81,7 +81,6 @@ Minimum Support	Itemsets Found
 0.02	41 itemsets
 0.03	21 itemsets
 Top Frequent Itemsets (Support ≥ 0.02)
-https://visuals/top_10_frequent_itemsets.png
 
 Sample frequent itemsets include:
 
